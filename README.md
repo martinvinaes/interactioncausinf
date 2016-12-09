@@ -1,2 +1,2 @@
 # interactioncausinf
-Paper on Causal Inference in Interaction Models
+Paper will examine problems with drawing causal inferences in linear interactive models.
